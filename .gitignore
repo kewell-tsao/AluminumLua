@@ -18,3 +18,4 @@ packages
 vs2010/AluminumLua.Tests/bin/
 nuget/lib/
 .dll
+.vs
